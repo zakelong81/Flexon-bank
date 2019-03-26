@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.Console;
-// :testing jenkins
+// testing jenkins
 public class BankAccount {
       public static void main(String[] args) {
             Account[] a = new Account[100];
